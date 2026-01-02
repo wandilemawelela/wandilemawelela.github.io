@@ -1,0 +1,5 @@
+title: My Awesome Site
+description: Welcome to my blog!
+baseurl: "" # leave empty for user/organization pages
+url: "https://wandilemawelela.github.io"
+theme: minima # GitHub Pages default theme
